@@ -16,7 +16,7 @@ export const skillsData = [
         icon: "discordmod",
     },
     {
-        name: "Bot Development",
+        name: "Custom Bot Development",
         color: "#2EA967",
         icon: "activedev",
     },
